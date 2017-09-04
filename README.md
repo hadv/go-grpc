@@ -1,4 +1,5 @@
 # go-grpc
 A Simple EchoService using protobuf and gRPC
 
-http://agileb.it/2016/06/11/su-dung-protobuf-va-grpc-de-phat-trien-api-2/
+http://agileb.it/portfolio/su-dung-protobuf-va-grpc-de-phat-trien-api-hieu-nang-cao/
+
